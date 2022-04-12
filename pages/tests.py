@@ -11,4 +11,4 @@ class PageTests(SimpleTestCase):
         response = self.client.get('/about/')
         self.assertEqual(response.status_code, 200)
 
-    
+    b d bd b
